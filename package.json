@@ -1,6 +1,6 @@
 {
   "name": "@squarecloudofc/redis-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple way to use something similar to the Map in javascript, but synchronized with the power of Redis.",
   "main": "src/index.js",
   "dependencies": {
