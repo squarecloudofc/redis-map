@@ -4,8 +4,7 @@
   "description": "A simple way to use something similar to the Map in javascript, but synchronized with the power of Redis.",
   "main": "src/index.js",
   "dependencies": {
-    "redis": "^4.6.10",
-    "simdjson": "latest"
+    "redis": "^4.6.10"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
